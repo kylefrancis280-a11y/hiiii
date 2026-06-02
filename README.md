@@ -1,5 +1,7 @@
 # hiiii
 
+**Note: This repository is completely standalone and has nothing to do with the Shotbreak project.**
+
 New repository initialized via Grok.
 
 ## Generated Image
